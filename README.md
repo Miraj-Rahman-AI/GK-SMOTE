@@ -129,6 +129,12 @@ You may also cite this implementation as:
 **[Miraj Rahman](https://github.com/Miraj-Rahman-AI)**  
 AI Researcher | Autonomous Agents | RAG Systems | Trustworthy AI
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is released under the [MIT License](LICENSE).
+
 
 ##  Support
 If this project supports your research or learning,
