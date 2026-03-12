@@ -115,12 +115,17 @@ If you use this repository in your research, please cite the original paper.
 You may also cite this implementation as:
 
 ```bibtex
-@misc{gksmote_github,
-  author       = {Mahabubur Rahman Miraj},
-  title        = {GK-SMOTE: Python Implementation of Gaussian Kernel-Based Oversampling},
-  year         = {2026},
-  howpublished = {\url{https://github.com/your-username/GK-SMOTE}},
-  note         = {GitHub repository}
+@inproceedings{miraj2025gksmote,
+  author    = {Miraj, M. R. and Huang, H. and Yang, T. and Zhao, J. and Mu, N. and Lei, X.},
+  title     = {GK-SMOTE: A Hyperparameter-Free Noise-Resilient Gaussian KDE-Based Oversampling Approach},
+  booktitle = {Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data},
+  pages     = {197--212},
+  year      = {2025},
+  month     = aug,
+  address   = {Singapore},
+  publisher = {Springer Nature Singapore},
+  url       = {https://link.springer.com/chapter/10.1007/978-981-95-5719-6_13},
+  doi       = {10.1007/978-981-95-5719-6_13}
 }
 ```
 
